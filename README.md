@@ -1,5 +1,7 @@
 # Interest-Calculation-Procedure
 
+Pre-requisite : You need to have relevant tables for account details and transactions done by each account.
+
 In this I have used plpgsql for calculating monthly interest of an account for 6 months and then add the accumulated interest to the current balance of the account.
 I have used 1 procedure and four functions here they are:
 
